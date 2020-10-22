@@ -210,13 +210,6 @@ spec:
     - height: 1
       kind: Markdown
       name: Name this Cell
-      note: This dashboard gives you an overview of [Docker](https://docker.com)
-        metrics. See the [Telegraf Documentation](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/docker)
-        for help configuring these plugins.
-      width: 12
-    - height: 1
-      kind: Markdown
-      name: Name this Cell
       note: '# Docker Daemon'
       width: 12
       yPos: 1
